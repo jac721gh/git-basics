@@ -2,7 +2,7 @@
 
 ## Team members
 
-(Delete this line and replace it with your information!)
+- Jacob Ang <jang2@hawk.iit.edu>
 
 ## Git & GitHub
 
